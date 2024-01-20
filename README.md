@@ -1,27 +1,23 @@
-# AngularBlog
+# Angular Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+## Descrição
 
-## Development server
+* O projeto Angular Blog contempla a criação de blog durante a Formação: Desenvolvimento Frontend com Angular oferecido pela [DIO (Digital Innovation One)](https://web.dio.me/track/7a55c727-bb2a-42a7-831b-6c38b4e83868).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Captura de tela
+<img src="">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Funcionalidades
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Tecnologias Utilizadas
 
-## Running unit tests
+* **HTML5 e CSS3** - para estrutura e estilo da página.
+* **Angular**
+* **JavaScript**
+* **TypeScript**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Redes Sociais
+[LinkedIn](//https://www.linkedin.com/in/francisco-de-oliveira-75353069/)
+[Instagram](//https://www.instagram.com/francisco.r.oliveira/)
