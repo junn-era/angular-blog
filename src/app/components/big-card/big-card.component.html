@@ -4,11 +4,11 @@
     alt="Foto da notícia" height="300px">
   </div>
   <div class="big-card__title">
-    <h1><a href="https://www.instagram.com/pequidevgo/">{{ cardTitle }}</a></h1>
+    <h1><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h1>
   </div>
   <div class="big-card__description">
     <p>
-      <a href="https://www.instagram.com/pequidevgo/">
+      <a [routerLink]="['content', Id]">
         {{ cardDescription }}
       </a>
     </p>
